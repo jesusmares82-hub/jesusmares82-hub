@@ -1,7 +1,7 @@
 ## Hi there I am Jesús Mares Full-stack web developer 💻, specialized in Python and NodeJS / React, Redux, perfectly comfortable with HTML / CSS / JavaScript ! 👋
 <div>
-  <img heigth="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jesusmares82-hub&show_icons=true&theme=dracula">
-  <img heigth="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmares82-hub&layout=compact&theme=dracula">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jesusmares82-hub&show_icons=true&theme=dracula">
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmares82-hub&layout=compact&theme=dracula">
 </div>
 
 ## 🚀 Skills
@@ -19,8 +19,16 @@
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  
 </div>
+
+<div>
+  <img height="70em" align="left" src="https://user-images.githubusercontent.com/75291371/154811833-50210927-faef-4a6c-8173-e8ce1cde0b8e.jpeg">
+</div>
+
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 **jesusmares82-hub/jesusmares82-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
