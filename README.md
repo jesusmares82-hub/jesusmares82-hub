@@ -1,4 +1,32 @@
-## Hi there I am Jesús Mares Full-stack web developer 💻, specialized in Python and NodeJS / React, Redux, perfectly comfortable with HTML / CSS / JavaScript ! 👋
+<h2> <img height="105em" align="left" src="https://user-images.githubusercontent.com/75291371/154811833-50210927-faef-4a6c-8173-e8ce1cde0b8e.jpeg"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 𝙷𝚒 𝚝𝚑𝚎𝚛𝚎, 𝙸 𝚊𝚖 𝙹𝚎𝚜ú𝚜 𝙼𝚊𝚛𝚎𝚜. 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚠𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, 𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚎𝚍 𝚒𝚗 𝙿𝚢𝚝𝚑𝚘𝚗 𝚊𝚗𝚍 𝙽𝚘𝚍𝚎𝙹𝚂 / 𝚁𝚎𝚊𝚌𝚝, 𝚁𝚎𝚍𝚞𝚡 & 𝚙𝚎𝚛𝚏𝚎𝚌𝚝𝚕𝚢 𝚌𝚘𝚖𝚏𝚘𝚛𝚝𝚊𝚋𝚕𝚎 𝚠𝚒𝚝𝚑 𝙷𝚃𝙼𝙻 / 𝙲𝚂𝚂 / 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝 ! <img src="https://media.giphy.com/media/smGpsxCQzXwDS/giphy.gif" width="25"></h2>
+<p><em>Computer Systems Engineer at <a href="https://www.unam.mx">Universidad Nacional Autónoma de México (UNAM).</a><img src="https://media.giphy.com/media/eTyoHYsY6Hoz6j9UI3/giphy.gif" width="30">
+
+[![Linkedin: jesusmares82](https://img.shields.io/badge/-jesusmares82-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesusmares82/)](https://www.linkedin.com/in/jesusmares82/)
+  <img src="https://komarev.com/ghpvc/?username=jesusmares82-hub" alt="https://github.com/jesusmares82-hub" />
+[![GitHub MaresCDMX](https://img.shields.io/github/followers/jesusmares82-hub?label=follow&style=social)](https://github.com/jesusmares82-hub)
+
+```javascript
+const marescdmx = {
+  pronouns: "he" | "his",
+  code: [Javascript, React, HTML, CSS, Node, Python],
+  tools: [React, Redux, Node, Storybook, Styled-Components]  
+}
+```
+
+<div>
+  <audio src="https://developer.mozilla.org/@api/deki/files/2926/=AudioTest_(1).ogg"
+       autoplay>
+  </audio>
+</div>
+
+- 👀 I’m interested in web development, frontend & backend.
+- 🌱 I’m currently learning python in data science with pandas, streamlite, flask, etc.
+- 💞️ I’m looking to collaborate on a great place to work.
+- 🙋 How to reach me?
+- 📫 Email: <a href="mailto:jesusmares82@gmail.com ">jesusmares82@gmail.com </a> 
+- ☎️  whatsapp: <a href="https://wa.me/525548056471">52 55 4804 6471</a>, 
+- 📃 portfolio: https://marescdmx.github.io/Portfolio-Jesus-Mares.github.io/
+
 <div>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jesusmares82-hub&show_icons=true&theme=dracula">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusmares82-hub&layout=compact&theme=dracula">
@@ -21,26 +49,17 @@
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   
 </div>
+  
+ ## 💻 Workspace Spec
+  
+ <img src="https://img.shields.io/badge/Apple-MacBook_Air_M1_2021-999999?style=for-the-badge&logo=apple&logoColor=white">
+  
+ ## ⚒️ Made with
+  ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+  ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
+  ![Pycharm](https://img.shields.io/badge/-Pycharm-%2300C7B7?style=flat-square&logo=pycharm&logoColor=pycharm)
 
-<div>
-  <img height="70em" align="left" src="https://user-images.githubusercontent.com/75291371/154811833-50210927-faef-4a6c-8173-e8ce1cde0b8e.jpeg">
-</div>
 
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-
-<!--
-**jesusmares82-hub/jesusmares82-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
